@@ -1,1 +1,7 @@
+#CODEOWNERS OF ALL THE PROJECT
 *       @EEST-CSS/admin
+
+#CODEOWNERS OF SPECIFIC directory
+/internal/textured/ @EEST-CSS/artdesign
+/internal/game_map/ @EEST-CSS/gamedesign
+/internal/orange_map/ @EEST-CSS/orangemapper
