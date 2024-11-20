@@ -2,6 +2,6 @@
 *       @EEST-CSS/admin
 
 #CODEOWNERS OF SPECIFIC directory
-/internal/textured/ @EEST-CSS/artdesign
-/internal/game_map/ @EEST-CSS/gamedesign
-/internal/orange_map/ @EEST-CSS/orangemapper
+/internal/textured/ @EEST-CSS/artdesign @EEST-CSS/admin
+/internal/game_map/ @EEST-CSS/gamedesign @EEST-CSS/admin
+/internal/orange_map/ @EEST-CSS/orangemapper @EEST-CSS/admin
