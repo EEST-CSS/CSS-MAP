@@ -1,0 +1,1 @@
+Toda textura/mapa de la entrada

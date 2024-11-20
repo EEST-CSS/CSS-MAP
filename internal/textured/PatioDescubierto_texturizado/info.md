@@ -1,0 +1,1 @@
+Toda textura/mapa del patio descubierto
